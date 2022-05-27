@@ -16,6 +16,7 @@ logger
 .. code-block:: python
 
     from mloguru import logger
+
     logger.success("hello world!")
 
 preview
