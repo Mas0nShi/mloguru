@@ -1,7 +1,8 @@
-# mloguru
+mloguru
+==============
 
-simple format logger based on [loguru](https://github.com/Delgan/loguru).
+simple format logger based on `loguru <https://github.com/Delgan/loguru>`_.
 
 ## preview
 
-![](preview.png)
+.. image:: preview.png
